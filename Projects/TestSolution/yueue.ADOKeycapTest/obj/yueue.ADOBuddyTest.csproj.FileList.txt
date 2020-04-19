@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\yueue.ADOBuddyTest.dll.config
+bin\Debug\yueue.ADOBuddyTest.dll
+bin\Debug\yueue.ADOBuddyTest.pdb
+bin\Debug\yueue.ADOBuddy.dll
+bin\Debug\yueue.ADOBuddy.pdb
+obj\Debug\yueue.ADOBuddyTest.dll
+obj\Debug\yueue.ADOBuddyTest.pdb

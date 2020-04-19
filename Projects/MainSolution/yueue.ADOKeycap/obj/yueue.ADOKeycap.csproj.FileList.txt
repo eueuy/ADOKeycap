@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\yueue.ADOKeycap.dll
+bin\Debug\yueue.ADOKeycap.pdb
+obj\Debug\yueue.ADOKeycap.dll
+obj\Debug\yueue.ADOKeycap.pdb
+bin\Release\yueue.ADOKeycap.dll
+bin\Release\yueue.ADOKeycap.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\yueue.ADOKeycap.dll
+obj\Release\yueue.ADOKeycap.pdb

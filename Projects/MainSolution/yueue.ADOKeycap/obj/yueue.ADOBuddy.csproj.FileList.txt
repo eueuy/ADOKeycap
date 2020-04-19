@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\yueue.ADOBuddy.dll
+bin\Debug\yueue.ADOBuddy.pdb
+obj\Debug\yueue.ADOBuddy.dll
+obj\Debug\yueue.ADOBuddy.pdb

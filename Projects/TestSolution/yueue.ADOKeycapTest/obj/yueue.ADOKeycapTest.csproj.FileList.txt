@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\yueue.ADOKeycapTest.dll.config
+bin\Debug\yueue.ADOKeycapTest.dll
+bin\Debug\yueue.ADOKeycapTest.pdb
+obj\Debug\yueue.ADOKeycapTest.dll
+obj\Debug\yueue.ADOKeycapTest.pdb
